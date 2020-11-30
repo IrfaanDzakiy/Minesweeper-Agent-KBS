@@ -1,6 +1,5 @@
 import numpy
 
-
 class cell:
     def __init__(self):
         # 0 hidden
